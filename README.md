@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47vxdd6yc7vz95vpv2vkrxsq0ykz8dsd2rsly2aujz&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47vxdd6yc7vz95vpv2vkrxsq0ykz8dsd2rsly2aujz&rid=giphy.gif&ct=g" width="500"/>
 </div>
 
 <div id="badges" align="center">
@@ -44,4 +44,4 @@ ________________________________________________________________________________
 
 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zarinadev&theme=dark&background=black)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zarinadev&theme=gruvbox)](https://git.io/streak-stats)
