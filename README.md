@@ -20,7 +20,7 @@ My name is Zarina Abrdakhmanova
 
 - 🔭 I’m currently working as a Front End developer on building fleet management application for truck companies.
 - 🌱 At night I am learning building 3D websites 
-- ⚡ Fun fact: I love reading, cooking and drawing
+- ⚡ Fun fact: In my free time I love reading, cooking and drawing
 ___________________________________________________________________
 Languages and Tools:
 
