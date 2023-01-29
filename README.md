@@ -20,7 +20,7 @@ My name is Zarina Abrdakhmanova
 
 - 🔭 I’m currently working as a Front End developer on building fleet management application for truck companies.
 - 🌱 At night I am learning building 3D websites 
-- ⚡ Fun fact: When I have time, I create cooking videos on Youtube) 
+- ⚡ Fun fact: I love reading, cooking and drawing
 ___________________________________________________________________
 Languages and Tools:
 
@@ -45,3 +45,6 @@ ________________________________________________________________________________
 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zarinadev&theme=gruvbox)](https://git.io/streak-stats)
+
+___________________________________________________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
