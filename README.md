@@ -16,15 +16,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-My name is Zarina Abrdakhmanova
+<h2 align="center"> My name is Zarina</h2>
 
 - 🔭 I’m currently working as a Front End developer on building fleet management application for truck companies.
 - 🌱 At night I am learning building 3D websites 
 - ⚡ Fun fact: In my free time I love reading, cooking and drawing
 ___________________________________________________________________
-Languages and Tools:
+<h2 align="center">Languages and Tools: </h2>
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
