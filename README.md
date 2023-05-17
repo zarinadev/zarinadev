@@ -44,4 +44,4 @@ ________________________________________________________________________________
 
 My Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zarinadev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zarinadev&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
