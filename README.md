@@ -18,9 +18,9 @@
 
 <h2 align="center"> My name is Zarina</h2>
 
-- 🔭 I’m currently working as a Front End developer on building fleet management application for truck companies.
+- 🔭 I’m currently having internship as a Front End developer on building fleet management application for truck companies.
 - 🌱 At night I am learning building 3D websites 
-- ⚡ Fun fact: In my free time I love reading, cooking and drawing
+- ⚡ Fun fact: In my free time I love reading and taking photos.
 ___________________________________________________________________
 <h2 align="center">Languages and Tools: </h2>
 
